@@ -47,9 +47,6 @@ Exploratory data analysis on NYC taxi trip data.
 
 ## Live signal
 
-<div align="center">
+**INDIA-EPFO-PAYROLL-ANALYTICS** — ![Last commit](https://img.shields.io/github/last-commit/LakshayTyagi4/INDIA-EPFO-PAYROLL-ANALYTICS?label=last%20commit) ![Stars](https://img.shields.io/github/stars/LakshayTyagi4/INDIA-EPFO-PAYROLL-ANALYTICS?style=social)
 
-<img src="https://github-readme-stats.vercel.app/api?username=LakshayTyagi4&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayTyagi4&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
+**NYC_Taxi_Exploratory_Data_Analysis** — ![Last commit](https://img.shields.io/github/last-commit/LakshayTyagi4/NYC_Taxi_Exploratory_Data_Analysis?label=last%20commit)
