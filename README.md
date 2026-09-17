@@ -39,14 +39,61 @@ Exploratory data analysis on NYC taxi trip data.
 
 ## Toolbox
 
-<div align="center">
+**BI & Data Warehousing**
 
-<img src="https://skillicons.dev/icons?i=python,sql,powerbi,git,github" />
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-6E48AA?style=for-the-badge&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-2C5B8A?style=for-the-badge&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-</div>
+**Data & Programming**
+
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Tools & Version Control**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## Live signal
 
 **INDIA-EPFO-PAYROLL-ANALYTICS** — ![Last commit](https://img.shields.io/github/last-commit/LakshayTyagi4/INDIA-EPFO-PAYROLL-ANALYTICS?label=last%20commit) ![Stars](https://img.shields.io/github/stars/LakshayTyagi4/INDIA-EPFO-PAYROLL-ANALYTICS?style=social)
 
 **NYC_Taxi_Exploratory_Data_Analysis** — ![Last commit](https://img.shields.io/github/last-commit/LakshayTyagi4/NYC_Taxi_Exploratory_Data_Analysis?label=last%20commit)
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=LakshayTyagi4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=LakshayTyagi4&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayTyagi4&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
+
+</div>
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=LakshayTyagi4&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+## Beyond the dashboard
+
+![Gaming](https://img.shields.io/badge/🎮_Gaming-8A2BE2?style=for-the-badge)
+![Music](https://img.shields.io/badge/🎵_Music-FF69B4?style=for-the-badge)
+![Memes](https://img.shields.io/badge/😂_Memes-FFD700?style=for-the-badge&logoColor=black)
+![Basketball](https://img.shields.io/badge/🏀_Basketball-FF8C00?style=for-the-badge)
+![Drums](https://img.shields.io/badge/🥁_Drums-DC143C?style=for-the-badge)
+
+---
+
+<div align="center">
+
+*By day: SQL, Snowflake, and stubborn dashboards. By night: drums, hoops, and questionable meme taste.*
+
+</div>
